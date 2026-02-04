@@ -5,7 +5,7 @@ We make use of 4 classifiers (NN, KNN, SVM, Random Forest) and a host of pre-pro
 
 Image datasets have been removed.
 
-This is a copy of our GitLab repository for the Video Analytics and Machine Learning group project.
+This is a copy of our GitLab repository for the Video Analytics and Machine Learning group project, completed as a team of 3.
 
 
  
